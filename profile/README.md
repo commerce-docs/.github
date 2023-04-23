@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="[https://getbootstrap.com/](https://developer.adobe.com/commerce/docs/)">
-    <img src="42logo.png" alt="42 Logo" width="256" height="219">
+    <img src="42logo.svg" alt="42 Logo" width="256" height="219">
   </a>
 </p>
 
