@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://developer.adobe.com/commerce/docs/">
-    <img src="logo42.svg" alt="Commerce DevDocs team logo">
+    <img src="logo42.png" alt="Commerce DevDocs team logo">
   </a>
 </p>
 
