@@ -22,5 +22,3 @@ Our purpose is simple: Help developers learn and apply concepts as quickly as po
   ·
   <a href="https://friendly-broccoli-vropw2o.pages.github.io/">Demos</a>
 </p>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${commerce-docs})
