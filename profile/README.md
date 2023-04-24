@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-We are 42! Adobe's team of developer-focused Commerce writers.<br>
+We are 42! Adobe's team of developer-focused Commerce writers and enthusiasts.<br>
 Our projects use JavaScript frameworks, APIs, and MDX to create docs for devs.<br>
 Our standards demand concise content, descriptive diagrams, and interactive examples.<br>
 Our purpose is simple: Help developers learn and apply concepts as quickly as possible.<br>
